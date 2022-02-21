@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.5 (swiftlang-1300.0.31.1 clang-1300.0.29.1)"
+options: "c784e36ecb028e3aec9228c6a4387040a0f94896be0d061723c429eb62e8eba0"
+build_start_time: [1645180651, 724851131]
+build_end_time: [1645180652, 582571029]
+inputs:
+  "/Users/vijaykumar/Desktop/FrameworkCreation/M2P/MtoPInterview/MtoPInterview/CommonCrypto.swift": [1644409889, 8274078]
+  "/Users/vijaykumar/Desktop/FrameworkCreation/M2P/MtoPInterview/MtoPInterview/UserCredentials.swift": [1645156119, 350371599]
+  "/Users/vijaykumar/Desktop/FrameworkCreation/M2P/MtoPInterview/MtoPInterview/UserDataModel.swift": [1644411048, 936248779]

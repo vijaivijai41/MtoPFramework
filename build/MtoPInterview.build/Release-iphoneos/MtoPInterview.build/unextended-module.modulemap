@@ -1,0 +1,10 @@
+framework module MtoPInterview {
+  umbrella header "MtoPInterview.h"
+
+  export *
+  module * { export * }
+}
+
+module MtoPInterview.__Swift {
+    exclude header "MtoPInterview-Swift.h"
+}

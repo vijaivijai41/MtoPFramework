@@ -1,0 +1,13 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/vijaykumar/Desktop/FrameworkCreation/M2P/MtoPInterview/build/Release-iphoneos/MtoPInterview.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/vijaykumar/Desktop/FrameworkCreation/M2P/MtoPInterview/build/MtoPInterview.build/Release-iphoneos/MtoPInterview.build/unextended-module.modulemap",
+    }]
+  }]
+}
